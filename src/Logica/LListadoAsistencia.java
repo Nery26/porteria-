@@ -94,7 +94,7 @@ public class LListadoAsistencia {
                 
             // escriba en el archivo la a
                 
-                // hola lizeth1234
+                // hola lizeth1234 jajajajaja
   
              System.out.print("asistio"+" ");
 
