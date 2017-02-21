@@ -15,6 +15,7 @@ public class LAprendiz {
     private String nombres;
     private String apellidos;
     
+    //hola lizeth//
     
     public LAprendiz(String doc, String nom, String ape){
     this.documento= doc;
